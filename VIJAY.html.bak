@@ -1,0 +1,12 @@
+<html>
+<head>
+   <title> Home - VIJAY LIFE </title> 
+</head>
+<body>
+   <center>
+          <h1> VIJAY WELCOME YOU </h1>
+          <h2> BE HAPPY </h2>
+		  <a href="https://www.linkedin.com/in/vijay-stanley-0701spm" target=_blank>
+		  <button class="btn1"> VISI LINKEDIN </button> 
+		  </a>
+</body>
